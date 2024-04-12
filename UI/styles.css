@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  background-color: antiquewhite;
+}
+
+#main {
+  color: rgb(0, 140, 255);
+  text-align: center;
+}
+#main button {
+  color: white;
+  font-size: 16px;
+  background-color: rgb(0, 140, 255);
+  border: none;
+  height: 50px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+#myform {
+  margin-top: 5%;
+  color: white;
+}
+#input {
+  text-align: center;
+}
+input {
+  height: 80px;
+  width: 70%;
+  border-radius: 4px;
+}
+
+#myform button {
+  margin-left: 15%;
+  height: 45px;
+  width: 80px;
+  border: none;
+  border-radius: 8px;
+  background-color: rgb(0, 140, 255);
+  color: white;
+}
